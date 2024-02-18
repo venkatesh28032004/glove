@@ -1,0 +1,2 @@
+threashold acceleration to begin gesture and threashold to end gesture
+this makes us do complex gesture but we need to be able to scale it down using algorithms to a fixed size

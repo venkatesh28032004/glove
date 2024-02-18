@@ -1,0 +1,7 @@
+research (memristor, stochastic computing)
+glove (unity 3d hand, asl, typing implementation, tensorflow)
+veda iit(digital, micro processors, analog devices, networks, control systems)
+
+
+
+assistant(tensorflow, api's)
